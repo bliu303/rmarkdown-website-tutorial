@@ -23,6 +23,8 @@ The best way to learn is to follow along with your own laptop, but all are welco
 
 ----
 
+![Welcome to my site](images/maple_tree.JPG)
+
 
 **Examples:**
 
