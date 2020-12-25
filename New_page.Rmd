@@ -1,0 +1,6 @@
+---
+title: "New_page"
+output: html_document
+---
+
+![](images/spring_mountain.JPG)
